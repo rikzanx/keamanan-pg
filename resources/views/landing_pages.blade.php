@@ -50,7 +50,7 @@
                     <div class="carousel-item active">
                         <img src="{{ asset('img/carousell-1.jpg')}}" alt="Carousel Image">
                         <div class="carousel-caption">
-                            <p class="animated fadeInRight">Faster</p>
+                            <p class="animated fadeInRight">Fasters</p>
                             <h1 class="animated fadeInLeft">For Your Dream Project</h1>
                             {{-- <a class="btn animated fadeInUp" href="https://htmlcodex.com/construction-company-website-template">Get A Quote</a> --}}
                         </div>
