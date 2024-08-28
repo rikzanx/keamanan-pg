@@ -33,11 +33,14 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="footer-link">
                                 <h2>Useful Pages</h2>
-                                <a href="">About Us</a>
-                                <a href="">Contact Us</a>
-                                <a href="">Our Team</a>
-                                <a href="">Projects</a>
-                                <a href="">Testimonial</a>
+                                <a href="{{route('profile')}}">Profil</a>
+                                <a href="{{route('wilayah')}}">Wilayah</a>
+                                <a href="{{route('penunjang')}}">Penunjang</a>
+                                <a href="{{route('klasifikasi')}}">Klasifikasi</a>
+
+                                <a href="{{route('penghargaan')}}">Penghargaan</a>
+                                <a href="{{route('galeri')}}">Galeri</a>
+                                <a href="{{route('kontak')}}">Kontak</a>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-3">
