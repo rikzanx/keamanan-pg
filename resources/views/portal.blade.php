@@ -98,7 +98,7 @@
                             <div class="service-item">
                                 <a href="https://sarpras.keamanan-pg.com" target="_blank">
                                     <div class="service-img">
-                                        <img src="{{ asset('img/apps-6.jpg')}}" alt="Image">
+                                        <img src="{{ asset('img/sarpras.png')}}" alt="Image">
                                         <div class="service-overlay">
                                             <p>
                                                 Sarpras
