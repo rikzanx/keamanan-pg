@@ -65,7 +65,7 @@
                                         <img src="{{ asset('img/apps-1.jpg')}}" alt="Image">
                                         <div class="service-overlay">
                                             <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                                Sikekar
                                             </p>
                                         </div>
                                     </div>
@@ -76,6 +76,42 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                            <div class="service-item">
+                                <a href="https://e-kib.keamanan-pg.com" target="_blank">
+                                    <div class="service-img">
+                                        <img src="{{ asset('img/apps-6.jpg')}}" alt="Image">
+                                        <div class="service-overlay">
+                                            <p>
+                                                E-KIB
+                                            </p>
+                                        </div>
+                                    </div>
+                                </a>
+                                <div class="service-text">
+                                    <h3>E-KIB</h3>
+                                    <a class="btn" href="{{ asset('img/apps-6.jpg')}}" data-lightbox="service">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
+                            <div class="service-item">
+                                <a href="https://sarpras.keamanan-pg.com" target="_blank">
+                                    <div class="service-img">
+                                        <img src="{{ asset('img/apps-6.jpg')}}" alt="Image">
+                                        <div class="service-overlay">
+                                            <p>
+                                                Sarpras
+                                            </p>
+                                        </div>
+                                    </div>
+                                </a>
+                                <div class="service-text">
+                                    <h3>Sarpras</h3>
+                                    <a class="btn" href="{{ asset('img/sarpras.png')}}" data-lightbox="service">+</a>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                             <div class="service-item">
                                 <a href="https://sintasian.keamanan-pg.com" target="_blank" rel="noopener noreferrer">
@@ -83,7 +119,7 @@
                                         <img src="{{ asset('img/apps-2.jpg')}}" alt="Image">
                                         <div class="service-overlay">
                                             <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                                Sintasian
                                             </p>
                                         </div>
                                     </div>
@@ -94,7 +130,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        
+                        <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="service-item">
                                 <a href="{{route('profile')}}">
                                     <div class="service-img">
@@ -147,25 +184,8 @@
                                     <a class="btn" href="{{ asset('img/apps-5.jpg')}}" data-lightbox="service">+</a>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-                            <div class="service-item">
-                                <a href="https://eposh.id" target="_blank">
-                                    <div class="service-img">
-                                        <img src="{{ asset('img/apps-6.jpg')}}" alt="Image">
-                                        <div class="service-overlay">
-                                            <p>
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <div class="service-text">
-                                    <h3>E-KIB</h3>
-                                    <a class="btn" href="{{ asset('img/apps-6.jpg')}}" data-lightbox="service">+</a>
-                                </div>
-                            </div>
-                        </div>
+                        </div> -->
+                        
                     </div>
                 </div>
             </div>
